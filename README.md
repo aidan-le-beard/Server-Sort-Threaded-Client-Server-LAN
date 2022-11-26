@@ -13,3 +13,11 @@ This program initially creates a LAN connection between a client and a server. T
 3) Edit Client.java line 10: put the IP of the machine with the other 2 files on it. This can be found on the other machine in command prompt by typing “ipconfig” and retrieving the IPv4 Address from the section titled “Wireless LAN adapter Wi-Fi.”
 4) **Optional:** edit Client.java lines 11 and 12 to be how many runs (trials) you wish to average, and what the starting array size you wish to be sorted is, respectively. Default is 1 run averaged, and N starting at 10. The program sorts an array of size N, N\*10, N\*100, and N\*1000. 
 5) Run Client.java on one machine, and SortingServer.java on the second machine.
+
+### Sample Output:
+
+![image](https://user-images.githubusercontent.com/33675444/204068779-6694fce1-fa75-49a6-91eb-7906aa906bb4.png)
+
+![image](https://user-images.githubusercontent.com/33675444/204068788-5d35c74a-dc96-4dce-8056-08e7d28ce2ab.png)
+
+![image](https://user-images.githubusercontent.com/33675444/204068795-1779f249-9dde-4801-a79c-f20e89d72c08.png)
