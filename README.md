@@ -1,4 +1,4 @@
-# Server-Sort-Threaded-Client-Server-LAN
+# Threaded Sort Using Client Server Lan Connection
 
 ## You do NOT have permission to use this code for any schoolwork purposes under any circumstances. 
 
