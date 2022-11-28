@@ -8,6 +8,8 @@ This program initially creates a LAN connection between a client and a server. T
 
 ### To execute on Windows:
 
+Knowledge of Java IDE usage and Java code execution is assumed.
+
 1) Place Client.java on one machine.
 2) Place SortThread.java and SortingServer.java on a second machine that is on the same Wi-Fi network.
 3) Edit Client.java line 10: put the IP of the machine with the other 2 files on it. This can be found on the other machine in command prompt by typing “ipconfig” and retrieving the IPv4 Address from the section titled “Wireless LAN adapter Wi-Fi.”
